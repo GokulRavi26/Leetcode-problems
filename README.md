@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1714-rearrange-spaces-between-words](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1714-rearrange-spaces-between-words) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Tree
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->
