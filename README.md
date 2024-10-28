@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2722-prime-in-diagonal](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
