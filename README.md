@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2089-maximum-matrix-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2089-maximum-matrix-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 ## Hash Table
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [2089-maximum-matrix-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
