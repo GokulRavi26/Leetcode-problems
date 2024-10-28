@@ -70,9 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2722-prime-in-diagonal](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
