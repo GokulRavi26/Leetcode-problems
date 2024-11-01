@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1714-rearrange-spaces-between-words](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1714-rearrange-spaces-between-words) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
