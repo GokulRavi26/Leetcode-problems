@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0787-sliding-puzzle) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Depth-First Search
 |  |
@@ -216,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
