@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1714-rearrange-spaces-between-words](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1714-rearrange-spaces-between-words) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1972-rotating-the-box) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Stack
