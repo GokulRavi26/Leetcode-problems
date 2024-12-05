@@ -1,34 +1,41 @@
 class Solution {
     public boolean canChange(String start, String target) {
-        String onlyDirsStart = start.replace("_", "");
-        String onlyDirsTarget = target.replace("_", "");
-        if (!onlyDirsStart.equals(onlyDirsTarget)) {
-            return false;
+        if (start.equals(target)) {
+            return true;
         }
-        int balance = 0;
+        int waitL = 0;
+        int waitR = 0;
+        
         for (int i = 0; i < start.length(); i++) {
-            if (target.charAt(i) == 'L') {
-                balance++;
+            char curr = start.charAt(i);
+            char goal = target.charAt(i);
+            
+            if (curr == 'R') {
+                if (waitL > 0) {
+                    return false;
+                }
+                waitR++;
             }
-            if (start.charAt(i) == 'L') {
-                balance--;
+            if (goal == 'L') {
+                if (waitR > 0) {
+                    return false;
+                }
+                waitL++;
             }
-            if (balance < 0) {
-                return false;
+            if (goal == 'R') {
+                if (waitR == 0) {
+                    return false;
+                }
+                waitR--;
+            }
+            if (curr == 'L') {
+                if (waitL == 0) {
+                    return false;
+                }
+                waitL--;
             }
         }
-        balance = 0;
-        for (int i = start.length() - 1; i >= 0; i--) {
-            if (target.charAt(i) == 'R') {
-                balance++;
-            }
-            if (start.charAt(i) == 'R') {
-                balance--;
-            }    
-            if(balance < 0) {
-                return false;
-            }
-        }
-        return true;
+        
+        return waitL == 0 && waitR == 0;
     }
 }
