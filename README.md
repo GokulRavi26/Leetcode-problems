@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3427-special-array-ii) |
