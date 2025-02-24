@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2554-minimum-total-distance-traveled) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Trie
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-valid-arrangement-of-pairs](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3189-find-champion-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
