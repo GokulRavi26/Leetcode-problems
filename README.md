@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
