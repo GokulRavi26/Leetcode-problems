@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1972-rotating-the-box) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
