@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
