@@ -1,6 +1,7 @@
 class Solution {
   public long countFairPairs(int[] nums, int lower, int upper) {
-   
+    // nums[i] + nums[j] == nums[j] + nums[i], so the condition that i < j
+    // degrades to i != j and we can sort the array.
     Arrays.sort(nums);
     return countLess(nums, upper) - countLess(nums, lower - 1);
   }
