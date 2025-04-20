@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0169-majority-element) |
 | [0768-partition-labels](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0952-word-subsets) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-partition-labels](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
