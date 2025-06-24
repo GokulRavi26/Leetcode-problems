@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
