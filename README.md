@@ -913,4 +913,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
