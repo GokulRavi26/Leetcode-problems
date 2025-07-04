@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3637-count-number-of-balanced-permutations) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3394-minimum-array-end](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
