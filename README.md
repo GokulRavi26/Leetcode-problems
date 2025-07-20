@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -896,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
