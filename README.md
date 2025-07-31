@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0952-word-subsets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
