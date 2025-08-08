@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0826-soup-servings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1022,4 +1024,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0175-combine-two-tables) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
