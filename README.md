@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0135-candy) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0368-largest-divisible-subset](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
