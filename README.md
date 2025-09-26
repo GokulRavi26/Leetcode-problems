@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0787-sliding-puzzle) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
@@ -809,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0611-valid-triangle-number](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
