@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
