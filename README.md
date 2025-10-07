@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1612-avoid-flood-in-the-city](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1612-avoid-flood-in-the-city](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -949,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2023-design-movie-rental-system) |
 | [2164-two-best-non-overlapping-events](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
