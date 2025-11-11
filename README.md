@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0165-compare-version-numbers) |
+| [0474-ones-and-zeroes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0868-push-dominoes) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0611-valid-triangle-number) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0368-largest-divisible-subset](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0806-domino-and-tromino-tiling) |
