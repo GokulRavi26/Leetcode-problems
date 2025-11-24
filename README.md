@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
