@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
