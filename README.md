@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2211-count-collisions-on-a-road](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2211-count-collisions-on-a-road) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1128,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
