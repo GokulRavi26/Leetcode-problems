@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0120-triangle) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0342-power-of-four) |
