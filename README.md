@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0474-ones-and-zeroes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0812-rotate-string) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0868-push-dominoes) |
