@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0787-sliding-puzzle) |
@@ -1070,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1164,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
