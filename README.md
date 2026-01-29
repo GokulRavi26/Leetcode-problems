@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1513,5 +1516,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/GokulRavi26/Leetcode-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/GokulRavi26/Leetcode-problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
