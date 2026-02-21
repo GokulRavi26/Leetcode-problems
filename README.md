@@ -892,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0830-largest-triangle-area) |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/GokulRavi26/Leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GokulRavi26/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
